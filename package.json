@@ -1,0 +1,14 @@
+{
+  "name": "design-thinking-studio-website",
+  "version": "1.0.0",
+  "description": "Design Thinking Studio Website & Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Rishabh Mahajan",
+  "license": "ISC"
+}
